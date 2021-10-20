@@ -1,0 +1,27 @@
+{
+  "name": "ts-drag-and-drop",
+  "version": "1.0.0",
+  "description": "Drag & Drop project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demanghon/ts-drag-and-drop.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Drag&Drop"
+  ],
+  "author": "Demanghon Jérôme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demanghon/ts-drag-and-drop/issues"
+  },
+  "homepage": "https://github.com/Demanghon/ts-drag-and-drop#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
