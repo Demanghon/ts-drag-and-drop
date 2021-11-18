@@ -17,4 +17,4 @@ npm install
 npm start
  ```
 
-> The project start with lite-server in development mode.
+> The project start with webpack-dev-server in development mode.
